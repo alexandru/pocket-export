@@ -1,0 +1,14 @@
+{
+    "files": [
+        "src/hello.ts",
+        "src/utils.ts",
+        "typings/index.d.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node"
+    }
+}
